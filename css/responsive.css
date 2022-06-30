@@ -1,0 +1,571 @@
+@media (max-width: 575.98px) {
+    .navbar-toggler i {
+        color: #000;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent;
+    }
+    .nav-bg {
+        background-color:#fff;
+        animation: upornich 2s;
+        -webkit-animation: upornich 2s;
+    }
+    @keyframes upornich {
+        from {
+            top: -10px;
+        }
+        to {
+            top: 0;
+        }
+    } 
+    .menu-bg {
+        padding: 0px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 99;
+        background-color:#fff;
+        border-bottom: 1px solid rgba(0,0,0,.1)
+    }
+    .bantext-sub {
+        position:relative;
+    }
+    .banner-text {
+        position: absolute;
+        top: -120px;
+        left: 35px;
+    }
+    .banner-img {
+        width: 230px;
+        position: relative;
+    }
+    .banner-img img {
+        position: absolute;
+        top: -269px;
+        left: 22px;
+    }
+    .socail-icon {
+        display: none;
+    }
+    #banner {
+        padding: 315px 0;
+    }
+    .about-img {
+        display: none;
+    }
+    .about-text {
+        margin-top: -90px;
+    }
+    #about {
+        padding-bottom: 80px;
+    }
+    .port-img {
+        margin-top: 25px;
+    }
+    .ser-item {
+        margin-bottom: 25px;
+    }
+    .ser-two {
+        margin-top: -21px;
+    }
+    #testimonial {
+        margin-top: -55px;
+    }
+    .test-caption .client-fed {
+        width: 504px;
+    }
+    #blog {
+        margin-top: -30px;
+    }
+    .marge {
+        padding-bottom: 0 !important;
+    }
+    .blog-text {
+        margin-left: 0;
+    }
+    #blog .banner-btn {
+        margin-left: 0;
+    }
+    .blog-text {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .blog-text h3 {
+        width: 460px;
+    }
+    .brand-main img {
+        width: 110px;
+    }
+    .portfolio-head p {
+        width: 415px;
+        margin: 0 auto;
+    }
+    .about-text p {
+        width: 496px;
+    }
+    .ser-head p {
+        width: 450px;
+        margin: 0 auto;
+    }
+    .test-head p {
+        width: 405px;
+        margin: 0 auto;
+    }
+    .test-caption .client-fed {
+        width: 415px;
+    }
+    .blog-head p {
+        width: 400px;
+        margin: 0 auto;
+    }
+    .footer-head p {
+        width: 403px;
+        margin: 0 auto;
+    }
+    .brand-main img {
+        width: 135px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler i {
+        color: #000;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent;
+    }
+    .nav-bg {
+        background-color:#fff;
+        animation: upornich 2s;
+        -webkit-animation: upornich 2s;
+    }
+    @keyframes upornich {
+        from {
+            top: -10px;
+        }
+        to {
+            top: 0;
+        }
+    } 
+    .menu-bg {
+        padding: 0px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 99;
+        background-color:#fff;
+        border-bottom: 1px solid rgba(0,0,0,.1)
+    }
+    #banner {
+        padding: 5px 0;
+    }
+    .banner-text {
+        margin-top: 60px;
+    }
+    .banner-img {
+        width: 250px;
+        position: relative;
+    }
+    .banner-img img {
+        position: absolute;
+        top: -290px;
+        left: 280px;
+    }
+    .socail-icon {
+        display: none;
+    }
+    #banner {
+        padding: 60px 0;
+    }
+    .about-img {
+        display: none;
+    }
+    .about-text {
+        margin-top: -90px;
+    }
+    #about {
+        padding-bottom: 80px;
+    }
+    .port-img {
+        margin-top: 25px;
+    }
+    .ser-item {
+        margin-bottom: 25px;
+    }
+    .ser-two {
+        margin-top: -21px;
+    }
+    #testimonial {
+        margin-top: -55px;
+    }
+    .test-caption .client-fed {
+        width: 504px;
+    }
+    #blog {
+        margin-top: -30px;
+    }
+    .marge {
+        padding-bottom: 0 !important;
+    }
+    .blog-text {
+        margin-left: 0;
+    }
+    #blog .banner-btn {
+        margin-left: 0;
+    }
+    .blog-text {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .blog-text h3 {
+        width: 460px;
+    }
+    .brand-main img {
+        width: 140px;
+    }
+    .about-text {
+        padding-left: 5px;
+    }
+    .about-text p {
+        width: 450px;
+    }
+    
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler i {
+        color: #000;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent;
+    }
+    .nav-bg {
+        background-color:#fff;
+        animation: upornich 2s;
+        -webkit-animation: upornich 2s;
+    }
+    @keyframes upornich {
+        from {
+            top: -10px;
+        }
+        to {
+            top: 0;
+        }
+    } 
+    .menu-bg {
+        padding: 0px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 99;
+        background-color:#fff;
+        border-bottom: 1px solid rgba(0,0,0,.1)
+    }
+    #banner {
+        padding: 160px 0;
+    }
+    .banner-text {
+        margin-top: 0px;
+    }
+    .banner-img {
+        width: 300px;
+        position: relative;
+    }
+    .banner-img img {
+        position: absolute;
+        top: -270px;
+        left: 400px;
+    }
+    .socail-icon {
+        display: none;
+    }
+    .about-img {
+        display: none;
+    }
+    .about-text {
+        margin-top: -90px;
+    }
+    #about {
+        padding-bottom: 80px;
+    }
+    .port-img {
+        margin-top: 25px;
+    }
+    .ser-item {
+        margin-bottom: 25px;
+    }
+    .ser-two {
+        margin-top: -21px;
+    }
+    #testimonial {
+        margin-top: -55px;
+    }
+    .test-caption .client-fed {
+        width: 504px;
+    }
+    #blog {
+        margin-top: -30px;
+    }
+    .marge {
+        padding-bottom: 0 !important;
+    }
+    .blog-text {
+        margin-left: 0;
+    }
+    #blog .banner-btn {
+        margin-left: 0;
+    }
+    .blog-text {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .blog-text h3 {
+        width: 460px;
+    }
+    .brand-main img {
+        width: 170px;
+    }
+    .port-img .hide {
+        display: none;
+    }
+    .port-img .harm {
+        display: none;
+    }
+    .test-head p {
+        color: #6c757d !important;
+        width: 529px;
+        margin: 0 auto;
+    }
+    .footer-head p {
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .navbar-toggler i {
+        color: #000;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent;
+    }
+    #banner {
+        padding: 160px 0;
+    }
+    .banner-text {
+        margin-top: 0px;
+    }
+    .banner-img {
+        width: 300px;
+        position: relative;
+    }
+    .banner-img img {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .socail-icon {
+        display: none;
+    }
+    .about-text {
+        margin-top: -90px;
+    }
+    #about {
+        padding-bottom: 80px;
+    }
+    .port-img {
+        margin-top: 25px;
+    }
+    .ser-item {
+        margin-bottom: 25px;
+    }
+    .ser-two {
+        margin-top: -21px;
+    }
+    #testimonial {
+        margin-top: -55px;
+    }
+    .test-caption .client-fed {
+        width: 504px;
+    }
+    #blog {
+        margin-top: -30px;
+    }
+    .marge {
+        padding-bottom: 0 !important;
+    }
+    .blog-text {
+        margin-left: 0;
+    }
+    #blog .banner-btn {
+        margin-left: 0;
+    }
+    .blog-text {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .blog-text h3 {
+        width: 460px;
+    }
+    .brand-main img {
+        width: 110px;
+    }
+    .test-head p {
+        color: #6c757d !important;
+        width: 529px;
+        margin: 0 auto;
+    }
+    .footer-head p {
+        margin: 0 auto;
+    }
+    .about-img {
+        margin-top: -88px;
+    }
+    #blog .banner-btn a {
+        padding: 9px 20px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 508.98px) {
+    .navbar-toggler i {
+        color: #000;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent;
+    }
+    .nav-bg {
+        background-color:#fff;
+        animation: upornich 2s;
+        -webkit-animation: upornich 2s;
+    }
+    @keyframes upornich {
+        from {
+            top: -10px;
+        }
+        to {
+            top: 0;
+        }
+    } 
+    .menu-bg {
+        padding: 0px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 99;
+        background-color:#fff;
+        border-bottom: 1px solid rgba(0,0,0,.1)
+    }
+    .bantext-sub {
+        position:relative;
+    }
+    .banner-text {
+        position: absolute;
+        top: -120px;
+        left: 35px;
+    }
+    .banner-img {
+        width: 230px;
+        position: relative;
+    }
+    .banner-img img {
+        position: absolute;
+        top: -269px;
+        left: 58px;
+    }
+    .socail-icon {
+        display: none;
+    }
+    #banner {
+        padding: 315px 0;
+    }
+    .about-img {
+        display: none;
+    }
+    .about-text {
+        margin-top: -90px;
+    }
+    #about {
+        padding-bottom: 80px;
+    }
+    .port-img {
+        margin-top: 25px;
+    }
+    .ser-item {
+        margin-bottom: 25px;
+    }
+    .ser-two {
+        margin-top: -21px;
+    }
+    #testimonial {
+        margin-top: -55px;
+    }
+    .test-caption .client-fed {
+        width: 504px;
+    }
+    #blog {
+        margin-top: -30px;
+    }
+    .marge {
+        padding-bottom: 0 !important;
+    }
+    .blog-text {
+        margin-left: 0;
+    }
+    #blog .banner-btn {
+        margin-left: 0;
+    }
+    .blog-text {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .blog-text h3 {
+        width: 260px;
+    }
+    .brand-main img {
+        width: 110px;
+    }
+    .portfolio-head p {
+        width: 280px;
+        margin: 0 auto;
+    }
+    .about-text p {
+        width: 317px;
+    }
+    .ser-head p {
+        width: 257px;
+        margin: 0 auto;
+    }
+    .test-head p {
+        width: 258px;
+        margin: 0 auto;
+    }
+    .test-caption .client-fed {
+        width: 269px;
+    }
+    .blog-head p {
+        width: 267px;
+        margin: 0 auto;
+    }
+    .footer-head p {
+        width: 260px;
+        margin: 0 auto;
+    }
+    .brand-main img {
+        width: 90px;
+    }
+    .port-button button {
+        padding: 0 15px;
+    }
+    .portfolio-head h2 {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .brand-main img {
+        width: 180px;
+    }
+}
